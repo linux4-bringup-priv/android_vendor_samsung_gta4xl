@@ -135,14 +135,14 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
-	name: "libril_sem",
+	name: "libril-samsung",
 	owner: "samsung",
 	strip: {
 		none: true,
 	},
 	target: {
 		android_arm64: {
-			srcs: ["proprietary/vendor/lib64/libril_sem.so"],
+			srcs: ["proprietary/vendor/lib64/libril-samsung.so"],
 		},
 	},
 	compile_multilib: "64",

@@ -41,7 +41,7 @@ PRODUCT_PACKAGES += \
     android.hardware.gnss@2.1-impl \
     vendor.samsung.hardware.gnss@2.0-impl \
     libengmode_client \
-    libril_sem \
+    libril-samsung \
     libsec-ril \
     libvkmanager_vendor \
     libwrappergps \
