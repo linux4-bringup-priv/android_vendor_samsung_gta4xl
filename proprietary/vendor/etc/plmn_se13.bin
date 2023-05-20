@@ -370,8 +370,8 @@ Vivacom BG"Vivacom
 28801Foroya Tele"FT-GSM
  
 28802VODAFONE FO"VODAFONE
-#
-29001TELE Greenland"TELE GRL
+
+29001Tusass"Tusass
 
 29340A1 SI"A1 SI
 
@@ -1330,8 +1330,8 @@ Banglalink"BL
 52505StarHub"StarHub
 
 52508StarHub"StarHub
-
-52510TPG SG"TPG SG
+
+52510SIMBA"SIMBA
 
 52801Imagine"Imagine
 
@@ -1530,8 +1530,8 @@ AirtelTigo"ATL-TIGO
 62402	Orange CM"Orange
 
 62404Nexttel"Nexttel
-
-62501ALOU"ALOU
+
+62501CVMovel"CVMovel
 
 62502	Unitel T+"UnitelT+
 !
@@ -1845,6 +1845,8 @@ TelkomSA-R"Telkom-R
 73602BOMOV"EMOVIL
 
 73603TIGO"TIGO
+
+73800ENet"ENet
 
 73801Digicel"Digicel
 #
@@ -1895,4 +1897,4 @@ AeroMobile"AeroMob
 
 90150EchoStar Mobile"EML
 
-90171Tampnet"Tampnet(Published TS.25 Database 24 October 2022
+90171Tampnet"Tampnet(Published TS.25 Database 30 January 2023

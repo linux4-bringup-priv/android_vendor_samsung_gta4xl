@@ -29,6 +29,8 @@ service sim_config /vendor/bin/secril_config_svc SimConfig
     disabled
 
 on fs
+    chown radio radio /mnt/vendor/efs/factory.prop
+    chmod 0600 /mnt/vendor/efs/factory.prop
     exec_start sim_config
 
 on post-fs-data
