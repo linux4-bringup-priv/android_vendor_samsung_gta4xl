@@ -36,11 +36,11 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libexynoscamera3 \
     libsemnativecarrierfeature \
-    audio.primary.exynos9611 \
     libswdap \
     android.hardware.gnss@2.1-impl \
     vendor.samsung.hardware.gnss@2.0-impl \
     libengmode_client \
+    libfloatingfeature \
     libril-samsung \
     libsec-ril \
     libvkmanager_vendor \
