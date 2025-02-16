@@ -61,7 +61,6 @@ PRODUCT_PACKAGES += \
     vendor.samsung.hardware.radio_manifest_2_33 \
     vendor.samsung.hardware.sehradio_manifest_2_33 \
     cass \
-    cbd \
     gpsd \
     rild \
     vaultkeeperd
