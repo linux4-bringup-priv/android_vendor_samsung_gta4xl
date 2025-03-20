@@ -4,6 +4,8 @@
 
 soong_namespace {
     imports: [
+        "device/samsung/gta4xl-common",
+        "hardware/samsung",
         "hardware/samsung_slsi-linaro/exynos",
         "hardware/samsung_slsi-linaro/graphics",
         "vendor/samsung/gta4xl-common",
@@ -181,7 +183,6 @@ cc_prebuilt_library_shared {
                 "libutils",
                 "libhidlbase",
                 "libvndksupport",
-                "libhidltransport",
                 "android.hardware.gnss@1.0",
                 "android.hardware.gnss@1.1",
                 "android.hardware.gnss@2.0",
@@ -221,7 +222,6 @@ cc_prebuilt_library_shared {
                 "libutils",
                 "libhidlbase",
                 "libvndksupport",
-                "libhidltransport",
                 "vendor.samsung.hardware.gnss@2.0",
                 "libm",
                 "libdl",
